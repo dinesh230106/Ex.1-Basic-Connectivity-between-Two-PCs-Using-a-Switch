@@ -1,18 +1,21 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+# Date : 23/07/2026 		
 
 # Objective
 
-          “To configure and test basic LAN connectivity between two PCs using a switch.”
-________________________________________
+To configure and test basic LAN connectivity between two PCs using a switch.
+
 # Apparatus/Tools Required
 •	Cisco Packet Tracer Software
+
 •	Devices: PCs, Switch, Router, Cables
+
 •	Optional: Wireless Router, Server, Cloud
-________________________________________
+
 # Network Topology Diagram
 
-Insert the network topology from Packet Tracer (Screenshot or drawing)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6998a12c-8b7c-4095-9ee5-30e349ffa8ca" />
+
 
 ________________________________________
 # IP Addressing Table (if applicable)
@@ -39,8 +42,14 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="1920" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/28919a75-3425-4c6f-86f5-fe3c34b97e98" />
 
-Insert screenshots showing ping success, configuration, or simulation results.
+
+<img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/6854ad14-81f2-4def-ae0e-e17285db2878" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61c7246a-9512-4eca-889d-fc462497c417" />
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
